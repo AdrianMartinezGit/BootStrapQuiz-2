@@ -1,0 +1,23 @@
+.DivColor{
+    background-color: blueviolet;
+}
+
+.titleHeader{
+    height: 200px;
+    background-color: #D9D9D9;
+}
+a.nav-link {
+    color: #3935FF;
+    font-size: 24px;;
+}
+a.nav-link.active {
+    color: black;
+}
+a.nav-link:hover {
+    color: #a8a7ff;
+}
+.hero-background {
+    border: 1px solid black;
+    max-width: 50%;
+    max-height: 100%;
+}
